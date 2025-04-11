@@ -28,5 +28,5 @@ struct apartment_context
 ## See also 
 * [winrt namespace](winrt.md)
 * [winrt::apartment_context function](apartment-context.md)
-* [winrt::resume_background function](resume-foreground.md)
+* [winrt::resume_background function](resume-background.md)
 * [Concurrency and asynchronous operations with C++/WinRT](/windows/uwp/cpp-and-winrt-apis/concurrency)
